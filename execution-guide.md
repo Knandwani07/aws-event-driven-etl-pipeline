@@ -1,3 +1,5 @@
+<img width="1376" height="664" alt="AWS_ETL_Pipeline_Architecture" src="https://github.com/user-attachments/assets/0f4095df-400d-45d5-a502-d847d36d8195" />
+
 # 🛠️ Execution Guide: Event-Driven Serverless ETL Pipeline on AWS
 
 
